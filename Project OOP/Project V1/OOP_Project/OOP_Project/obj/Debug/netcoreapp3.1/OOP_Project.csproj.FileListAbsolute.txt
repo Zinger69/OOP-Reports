@@ -1,0 +1,11 @@
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.exe
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.deps.json
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.runtimeconfig.json
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.runtimeconfig.dev.json
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.dll
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\bin\Debug\netcoreapp3.1\OOP_Project.pdb
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\obj\Debug\netcoreapp3.1\OOP_Project.csprojAssemblyReference.cache
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\obj\Debug\netcoreapp3.1\OOP_Project.AssemblyInfoInputs.cache
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\obj\Debug\netcoreapp3.1\OOP_Project.AssemblyInfo.cs
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\obj\Debug\netcoreapp3.1\OOP_Project.dll
+d:\WinUsers\LENOVO\Desktop\OOP_Project\OOP_Project\obj\Debug\netcoreapp3.1\OOP_Project.pdb
